@@ -29,11 +29,9 @@
 
 <p align="left">
 <img width="430rem" src="https://github-readme-stats.vercel.app/api?username=josiassantos15&show_icons=true&theme=vision-friendly-dark" alt="josiassantos15's stats"/>
-  <!--
+
 <img width="430rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiassantos15&layout=compact&theme=vision-friendly-dark" alt="josiassantos's most languages"/>
-</p>
--->
-  
+</p>  
  ## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
