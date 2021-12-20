@@ -48,7 +48,9 @@
  <a href="mailto:josiassantos1577@gmail.com"_blank">
  <img align="center" src="https://img.shields.io/badge/-Josias%20Santos-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
-                                                                                                                    
+
+ ![Snake animation](https://github.com/josiassantos15/josiassantos15/blob/output/github-contribution-grid-snake.svg)
+ 
 </p>
  
 <!--
