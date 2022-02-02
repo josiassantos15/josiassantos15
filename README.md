@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning more JavaScript, TypeScript, React and Node.js
 
-- 🔭 I’m currently an intern at [Petruz Fruity](http://petruz.com/en)
+- 🔭 I’m currently a System programmer at [Petruz Fruity](http://petruz.com/en)
 
 - 📫 How to reach me josiassantos1577@gmail.com
 
