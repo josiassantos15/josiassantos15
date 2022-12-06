@@ -9,6 +9,8 @@
 
 - 📫 How to reach me josiassantos1577@gmail.com
 
+- 👨 My personal portfolio https://my-personal-portfolio-josiassantos15.vercel.app/
+
 - 👯 I'm looking to collaborate on interesting projects
 
 <br><br>
