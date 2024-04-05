@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/josiassantos15/josiassantos15/main/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
