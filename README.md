@@ -3,7 +3,7 @@
 
 - 🔥 👨‍🎓 Graduated in Computing and Full Stack Developer
 
-- 🌱 I'm currently learning more Java, JavaScript, TypeScript, React and Node.js
+- 🌱 I'm currently learning more Java, Spring Boot, JavaScript, TypeScript, Angular and PL/SQL
 
 - 🔭 I’m currently a Software Development Analyst at [FADESP-SEFA](https://portalfadesp.org.br)
 
@@ -21,7 +21,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -32,6 +33,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+![PL SQL](https://img.shields.io/badge/-Oracle%20Sql-05122A?style=flat&logo=oracle-sql)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp; Github Analytics
@@ -45,34 +47,16 @@
  ## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/josias-santos-265319179" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Josias%20Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://https://www.instagram.com/josias1577" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Josias%20Santos-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.youtube.com/channel/UCHHCSjD9nFsGJ7U6LRm9FSw"_blank">
- <img align="center" src="https://img.shields.io/badge/-Josias%20Santos-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
- <a href="mailto:josiassantos.contato@gmail.com"_blank">
- <img align="center" src="https://img.shields.io/badge/-Josias%20Santos-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-
- ![Snake animation](https://github.com/josiassantos15/josiassantos15/blob/output/github-contribution-grid-snake.svg)
- 
+ <a href="https://www.linkedin.com/in/josias-santos-265319179" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/Josias%20Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+ </a>
+ <a href="https://https://www.instagram.com/josias1577" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Josias%20Santos-05122A?style=flat&logo=instagram" alt="instagram"/>
+ </a>
+ <a href="https://www.youtube.com/channel/UCHHCSjD9nFsGJ7U6LRm9FSw"_blank">
+  <img align="center" src="https://img.shields.io/badge/-Josias%20Santos-05122A?style=flat&logo=youtube" alt="youtube"/>
+ </a>
+  <a href="mailto:josiassantos.contato@gmail.com"_blank">
+  <img align="center" src="https://img.shields.io/badge/-Josias%20Santos-05122A?style=flat&logo=gmail" alt="gmail"/>
+ </a> 
 </p>
- 
-<!--
-**josiassantos15/josiassantos15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
